@@ -1,0 +1,1 @@
+.load /app/base64url.so sqlite3_base64url_init
